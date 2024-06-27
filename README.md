@@ -1,4 +1,4 @@
-![Dapp Login Page](https://github.com/hemanth1223/decentralized-social-media-using-blockchain/assets/86236166/13c12130-f647-4510-a042-b5fbcfa0444f)
+![Dapp Login Page](https://github.com/hruthiknd/decentralized-social-media-using-blockchain/assets/86236166/13c12130-f647-4510-a042-b5fbcfa0444f)
 # Decentralized Social Media - Blockchain
 This project aims to create a decentralized social media platform using blockchain technology. Users will have enhanced control over their data privacy and content, while leveraging the benefits of blockchain's transparency and immutability. The project utilizes Next.js, Hardhat, and Sanity to build and deploy the application.
 
